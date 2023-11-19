@@ -1,0 +1,4 @@
+.\src\main.vhd
+.\src\CPU.bde
+.\src\Test_CPU.bde
+.\src\TestBench\cpu_TB.vhd

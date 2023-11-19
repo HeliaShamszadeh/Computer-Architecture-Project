@@ -1,0 +1,82 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=CAP23_CPU
+[Library]
+CAP23_CPU=.\CAP23_CPU\CAP23_CPU.lib
+[$LibMap$]
+CAP23_CPU=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+CDebugWatchList=
+[Files]
+/main.vhd=-1
+/CPU.bde=-1
+/Test_CPU.bde=-1
+TestBench/cpu_TB.vhd=-1
+TestBench/cpu_TB_runtest.do=-1
+[Files.Data]
+.\src\main.vhd=VHDL Source Code
+.\src\CPU.bde=Block Diagram
+.\src\Test_CPU.bde=Block Diagram
+.\src\TestBench\cpu_TB.vhd=VHDL Test Bench
+.\src\TestBench\cpu_TB_runtest.do=Macro
+[HierarchyViewer]
+HierarchyInformation=test_cpu|Test_CPU|0
+ShowHide=ShowTopLevel
+Selected=
+[file_out:/test.bde]
+/..\compile\test.vhd=-1
+[file_out:/CPU.bde]
+/..\compile\CPU.vhd=-1
+[file_out:/Test_CPU.bde]
+/..\compile\Test_CPU.vhd=-1
+[folders]
+name0=ALINT-PRO Workspaces
+directory0=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension0=alintws
+name1=Coverage Databases
+directory1=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension1=acdb
+name2=Dll Libraries
+directory2=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension2=dll
+name3=Event Lists
+directory3=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension3=lst
+name4=HTML Files
+directory4=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension4=htm;html
+name5=Log Files
+directory5=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension5=log;htm;xml;txt
+name6=Matlab/Simulink Files
+directory6=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\
+extension6=m;mdl;slx
+name7=Memory Files
+directory7=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension7=mem;mif;hex
+name8=PDF Files
+directory8=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension8=pdf
+name9=Profiler Databases
+directory9=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension9=tbp
+name10=Script Files
+directory10=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension10=do;tcl;pl
+name11=Waveform Files
+directory11=C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU\
+extension11=asdb;awc;asdbc;asdbe
+[file_out:/ALU_Test.bde]
+/..\compile\ALU_Test.vhd=-1
+[Groups]
+TestBench=1

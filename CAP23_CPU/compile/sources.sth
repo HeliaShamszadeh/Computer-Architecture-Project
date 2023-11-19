@@ -1,0 +1,17 @@
+[Files List]
+C:\Aldec\Active-HDL-13-x64\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/signed_p.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/signed_b.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/unsigned_p.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/unsigned_b.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/textio.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/numeric_std-body.vhdl=S
+C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU/src/main.vhd=S
+C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU/compile/CPU.vhd=S
+C:\Users\PARSA\Desktop\elmos\Subjects\CA\Project\CAP23\CAP23_CPU/compile/Test_CPU.vhd=S

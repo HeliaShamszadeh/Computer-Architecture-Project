@@ -1,0 +1,14 @@
+[Version]
+Version=13.0
+[Designs]
+cap23_cpu=.\CAP23_CPU\CAP23_CPU.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+cap23_cpu=1
+[Settings]
+Active=cap23_cpu
